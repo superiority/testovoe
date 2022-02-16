@@ -1,0 +1,13 @@
+.logo {
+   text-align: center;
+}
+
+.Header-text {
+    margin: 0;
+    font-family: 'Futura', sans-serif;
+    text-align: center;
+    font-size: 45px;
+    line-height: 72px;
+    text-transform: uppercase;
+    color: #FFCC64;
+}

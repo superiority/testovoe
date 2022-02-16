@@ -1,0 +1,14 @@
+.Profile-title {
+    background: url("../img/profile/Oval Copy 2.png") no-repeat center / cover;
+    font-family: kinopoisk-light, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    margin: 50px auto;
+    border-radius: 50%;
+}
