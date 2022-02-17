@@ -1,0 +1,13 @@
+.menu {
+    margin-left: 50px;
+}
+
+.menu img {
+    cursor: pointer;
+}
+
+.menu__left {
+    position: absolute;
+    margin-top: 40vh;
+    margin-left: 50px;
+}
