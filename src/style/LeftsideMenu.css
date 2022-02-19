@@ -44,9 +44,13 @@
     margin-left: 50px;
 }
 
+.Arrow {
+
+ }
+
 .menu-arrow__text {
+    font-family: kinopoisk-lite, sans-serif;
     background: inherit;
-    width: 200px;
     height: 50px;
     cursor: pointer;
     border: none;
@@ -58,5 +62,9 @@
 .menu-arrow__left {
     position: absolute;
     margin-top: 80vh;
-    margin-left: 58px;
 }
+
+.menu-arrow__left {
+    margin-left: 56px;
+}
+
