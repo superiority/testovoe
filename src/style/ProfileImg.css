@@ -1,7 +1,10 @@
+
 .Profile-Garri {
     text-align: center;
 }
 
 .Profile-text {
-
+    margin: auto;
+    width: 900px;
+    text-align: center;
 }

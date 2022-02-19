@@ -3,7 +3,7 @@ import '../../style/ProfileImg.css';
 
 const ProfileImg = () => {
     return (
-        <div>
+        <div className='Profile'>
             <p className='Profile-Garri'>
                 <img src="/profile-img/Garri.png" alt="Garri"/>
             </p>
@@ -12,6 +12,9 @@ const ProfileImg = () => {
                 за мониторами, и пусть борода не собьёт вас с толку. Найдите героя и нажмите  на паузу —
                 ему не терпится отдать вам промокод.
             </h3>
+            <p>
+                <img src="" alt=""/>
+            </p>
         </div>
     );
 };

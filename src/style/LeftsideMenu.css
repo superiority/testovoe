@@ -6,8 +6,57 @@
     cursor: pointer;
 }
 
+.left-menu {
+    cursor: pointer;
+}
+
 .menu__left {
+    font-family: kinopoisk-lite;
+    font-size: 17px;
+    line-height: 15px;
     position: absolute;
     margin-top: 40vh;
     margin-left: 50px;
+    cursor: pointer;
+}
+
+.menu-img__left {
+    position: absolute;
+    margin-top: 43vh;
+    margin-left: 50px;
+}
+
+.left-img {
+    position: absolute;
+    margin-top: 30vh;
+    margin-left: 50px;
+}
+
+.left-img__2 {
+    position: absolute;
+    margin-top: 20vh;
+    margin-left: 50px;
+}
+
+.left-img__3 {
+    position: absolute;
+    margin-top: 50vh;
+    margin-left: 50px;
+}
+
+.menu-arrow__text {
+    background: inherit;
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    border: none;
+    transform: rotate(90deg);
+    position: absolute;
+    margin-top: 70vh;
+}
+
+.menu-arrow__left {
+    position: absolute;
+    margin-top: 80vh;
+    margin-left: 58px;
 }
